@@ -1,0 +1,25 @@
+h1{
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 1.25em;
+    font-weight: lighter;
+    background-color: #f0ffff;
+}
+
+p{
+    font-family: serif;
+}
+
+.textImageFlex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.marginRight{
+    margin-right: 20px;
+}
+
+
